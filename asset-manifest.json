@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bb00e978.css",
+    "main.js": "/static/js/main.24025f23.js",
+    "static/media/Iphone.png": "/static/media/Iphone.657f7ea4e6d2308ca373.png",
+    "static/media/Airpods.png": "/static/media/Airpods.6c397c9ff74eeb94c854.png",
+    "static/media/Apple card.png": "/static/media/Apple card.a69a2b90d3dcb3b3e3f7.png",
+    "static/media/Apple tv.png": "/static/media/Apple tv.db6d6e16ee8376fc37e4.png",
+    "static/media/logo.svg": "/static/media/logo.f65a80e345ee1315d6030d635514eb05.svg",
+    "index.html": "/index.html",
+    "main.bb00e978.css.map": "/static/css/main.bb00e978.css.map",
+    "main.24025f23.js.map": "/static/js/main.24025f23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb00e978.css",
+    "static/js/main.24025f23.js"
+  ]
+}
